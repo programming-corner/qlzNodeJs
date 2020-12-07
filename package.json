@@ -1,17 +1,33 @@
 {
-  "name": "Acompression_project",
+  "name": "qlzjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-corner/qlzNodeJs.git"
+  },
+  "keywords": [
+    "qlz",
+    "javaScript",
+    "nodejs",
+    "compression",
+    "C/C++ addon"
+  ],
+  "author": {
+    "name": "programming-corner",
+    "email": "procorner20@gmail.com"
+  },
   "license": "ISC",
-  "dependencies": {
-    "atob": "^2.1.2",
-    "btoa": "^1.2.1",
+  "bugs": {
+    "url": "https://github.com/programming-corner/qlzNodeJs/issues"
+  },
+  "homepage": "https://github.com/programming-corner/qlzNodeJs#readme",
+  "devDependencies": {
     "node-addon-api": "^3.0.2",
     "node-gyp": "^7.1.2"
   }
