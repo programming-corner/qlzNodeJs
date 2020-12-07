@@ -8,18 +8,17 @@ Napi::String qlz_compress_magic(const Napi::CallbackInfo& info) {
     Napi::Env env = info.Env();
     std::string toCompress = (std::string) info[0].ToString();
     double size = info[1].As<Napi::Number>().DoubleValue();
-    static unsigned char buffer1[10000000] = {0};
-    unsigned char * destination = &buffer1[0];
+    static unsigned char *destination = new unsigned char[size+400]();
+    // and do not forget to delete it later
     qlz_state_compress  *state_compress = (qlz_state_compress *)malloc(sizeof(qlz_state_compress));
     const void * data = toCompress.c_str();
     size_t x = qlz_compress(data, (char*)destination ,toCompress.length(), state_compress);
-    // std::cout << "compressed size x:  "<<x<< "\n";
-    // std::cout << "size :  "<<size<< "\n";
     std::string  s = "";
    for (int i = 0; i < x ; i++) {
-        s += (buffer1[i]>>4)&0x0f;
-        s += buffer1[i]&0x0f;
+        s += (destination[i]>>4)&0x0f;
+        s += destination[i]&0x0f;
      }
+    delete[] destination;
     return Napi::String::New(env, s);
 }
 
