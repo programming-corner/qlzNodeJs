@@ -7,7 +7,7 @@ const fs = require('fs'), path = require('path')
 
 //console.log(":::::::::::::", path.join(__dirname, '../data'));
 
-let { compressedData, CompressionLength, ratio } = compress(data)
+let { compressedData, CompressionLength, ratio } = compress("hello")
 console.log(CompressionLength, ":::::::::", ratio)
 
 fs.writeFileSync('./compressedData.txt', compressedData)

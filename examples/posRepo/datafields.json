@@ -1,0 +1,789 @@
+{
+    "size": 81,
+    "data": [
+        {
+            "index": 0,
+            "ar_label": "d1dee320c7e1e3e6c8c7ede1",
+            "en_label": "bill ID",
+            "field_name": "mobile",
+            "max_len": "11",
+            "min_len": "11",
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "confirmed": true
+        },
+        {
+            "index": 1,
+            "ar_label": "dacfcf20c7e1c3ded3c7d8",
+            "en_label": "bills count",
+            "field_name": "bills_count",
+            "input_type": "S"
+        },
+        {
+            "index": 2,
+            "ar_label": "c7e1deede3c920c7e1dfe1edc9",
+            "en_label": " Total Payable Amount",
+            "field_name": "total_payable_amount",
+            "input_type": "S"
+        },
+        {
+            "index": 3,
+            "ar_label": "dfe6cf20c7e1d3cfc7cf",
+            "en_label": "Bill ID",
+            "field_name": "bill_id",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 4,
+            "ar_label": "c7e1d4e5d1",
+            "en_label": "Month",
+            "field_name": "month",
+            "input_type": "S"
+        },
+        {
+            "index": 5,
+            "ar_label": "c8edc7e4c7ca20c7e1dae3ede1",
+            "en_label": "Customer Info",
+            "field_name": "customer_info",
+            "input_type": "S"
+        },
+        {
+            "index": 6,
+            "ar_label": "",
+            "en_label": "",
+            "field_name": "elec_data",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "E"
+        },
+        {
+            "index": 7,
+            "ar_label": "",
+            "en_label": "",
+            "field_name": "card_id",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": false,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 8,
+            "ar_label": "",
+            "en_label": "",
+            "field_name": "vendor_name",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": false,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 9,
+            "ar_label": "c7d3e320c7e1dae3ede1",
+            "en_label": "customername",
+            "field_name": "customername",
+            "input_type": "S"
+        },
+        {
+            "index": 10,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 11,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "012",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 12,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "011",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 13,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 14,
+            "ar_label": "c7e1dacfcf",
+            "en_label": "Quantity",
+            "field_name": "quantity",
+            "input_type": "Q",
+            "min_quantity": 1,
+            "max_quantity": 10,
+            "visible": true,
+            "default_val": 1,
+            "required": true,
+            "is_password": false
+        },
+        {
+            "index": 15,
+            "ar_label": "50494e",
+            "en_label": "Pin",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 16,
+            "ar_label": "c7e1d1dee320c7e1e3d3e1d3e1",
+            "en_label": "Serial number",
+            "field_name": "track_number",
+            "input_type": "S"
+        },
+        {
+            "index": 17,
+            "ar_label": "50494e",
+            "en_label": "PIN",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 18,
+            "ar_label": "c7e1d1dee320c7e1e3d3e1d3e1",
+            "en_label": "Serial number",
+            "field_name": "serial_number",
+            "input_type": "S"
+        },
+        {
+            "index": 19,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 9,
+            "visible": true,
+            "default_val": "0",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 20,
+            "ar_label": "c8edc7e4c7ca20c7e1dae3ede1",
+            "en_label": "Customer Info",
+            "field_name": "info_text",
+            "input_type": "S"
+        },
+        {
+            "index": 21,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "phone",
+            "field_name": "client_id",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 22,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "012",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 23,
+            "ar_label": "c7e1d1dee320c7e1e3d3e1d3e1",
+            "en_label": "Serial No.",
+            "field_name": "serial_number",
+            "input_type": "S"
+        },
+        {
+            "index": 24,
+            "ar_label": "c7e1d1dee320c7e1d3d1ec",
+            "en_label": "Pin Code",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 25,
+            "ar_label": "d1dee320c7e1e3d3e1d3e1",
+            "en_label": "Serial Number",
+            "field_name": "serial_number",
+            "input_type": "S"
+        },
+        {
+            "index": 26,
+            "ar_label": "cac7d1edce20c7e4cae5c7c120c7e1d5e1c7cdedc9",
+            "en_label": "Expire Date",
+            "field_name": "expire_date",
+            "input_type": "S"
+        },
+        {
+            "index": 27,
+            "ar_label": "d1dee320c7e1cae1eddde6e4",
+            "en_label": "Customer Number",
+            "field_name": "adslPhoneNumber",
+            "max_len": 10,
+            "min_len": 9,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 28,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 10,
+            "min_len": 9,
+            "visible": true,
+            "default_val": "0",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 29,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "phone",
+            "max_len": 11,
+            "min_len": 9,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 30,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Telephone Number",
+            "field_name": "TelephoneNumber",
+            "max_len": 11,
+            "min_len": 8,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 31,
+            "ar_label": "d1dee320c7e1cdccd2",
+            "en_label": "Reservation Number",
+            "field_name": "transNo",
+            "max_len": 10,
+            "min_len": 1,
+            "visible": true,
+            "required": true,
+            "input_type": "S",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 32,
+            "ar_label": "c7e1d1dee320c7e1d3d1ed",
+            "en_label": "PIN",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 33,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Customer Number",
+            "field_name": "customer_number",
+            "max_len": 16,
+            "min_len": 15,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 34,
+            "ar_label": "c7e1d1dee320c7e1d3d1ed",
+            "en_label": "Pin",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 35,
+            "ar_label": "d1dee320e5c7cadd20c7e1e3cac8d1da",
+            "en_label": "Donor’s Mobile Number",
+            "field_name": "mobile",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 36,
+            "ar_label": "c7e1d1dee320c7e1dee6e3ec",
+            "en_label": "National ID",
+            "field_name": "national_id",
+            "max_len": 14,
+            "min_len": 14,
+            "visible": true,
+            "default_val": "",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 37,
+            "ar_label": "c7e1d1dee320c7e1e3d1ccdaec",
+            "en_label": "Pin Code",
+            "field_name": "pin_code",
+            "input_type": "S"
+        },
+        {
+            "index": 38,
+            "ar_label": "c7d3e320c7e1e3d3caddedcf",
+            "en_label": "Beneficiary Name",
+            "field_name": "beneficiary_name",
+            "input_type": "S"
+        },
+        {
+            "index": 39,
+            "ar_label": "c7e1e3cdc7ddd9c9",
+            "en_label": "Beneficiary Governrate",
+            "field_name": "beneficiary_gov",
+            "input_type": "S"
+        },
+        {
+            "index": 40,
+            "ar_label": "c7e1d1dee320c7e1d3d1ed",
+            "en_label": "Bin Code",
+            "field_name": "pin",
+            "max_len": 10,
+            "min_len": 1,
+            "visible": true,
+            "default_val": "",
+            "required": true,
+            "input_type": "N",
+            "is_password": true
+        },
+        {
+            "index": 41,
+            "ar_label": "c7e1d1d5edcf",
+            "en_label": "Balance",
+            "field_name": "beneficiary_balance",
+            "input_type": "S"
+        },
+        {
+            "index": 42,
+            "ar_label": "c7cfcee120dacfcf20c7e1d5dfe6df20e3e4203120c7e1ed20313020deede3e520c7e1d5df2033353030",
+            "en_label": "Quantity",
+            "field_name": "quantity",
+            "input_type": "Q",
+            "min_quantity": 1,
+            "max_quantity": 10,
+            "visible": true,
+            "default_val": 1,
+            "required": true,
+            "is_password": false
+        },
+        {
+            "index": 43,
+            "ar_label": "d1dee320e5c7cadd20c7e1e3cac8d1da",
+            "en_label": "Donor’s Mobile Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 44,
+            "ar_label": "dfe6cf20c7e1d3cfc7cf",
+            "en_label": "Elec No",
+            "field_name": "elecNo",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 45,
+            "ar_label": "c7d3e320c7e1dae3ede1",
+            "en_label": "customername",
+            "field_name": "customer_name",
+            "input_type": "S"
+        },
+        {
+            "index": 46,
+            "ar_label": "d1dee320c7e1ddc7cae6d1c9",
+            "en_label": "Bill Number",
+            "field_name": "bill_id",
+            "input_type": "S"
+        },
+        {
+            "index": 47,
+            "ar_label": "dfe6cf20c7e1dae3ede1",
+            "en_label": "Customer Id",
+            "field_name": "customer_id",
+            "input_type": "S"
+        },
+        {
+            "index": 48,
+            "ar_label": "d1dee320c7e1e3e6c8c7ede1",
+            "en_label": "Phone Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 49,
+            "ar_label": "c8d1ccc7c120c7e4cad9c7d120cac3dfedcf20c7e1dae3ede1",
+            "en_label": "customername",
+            "field_name": "msg",
+            "input_type": "S"
+        },
+        {
+            "index": 50,
+            "ar_label": "c7e1d1dee320c7e1dee6e3ed",
+            "en_label": "National ID",
+            "field_name": "CustomerNationalId",
+            "max_len": "14",
+            "min_len": "14",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 51,
+            "ar_label": "c7e1ded3d8",
+            "en_label": "DueInstallmentAmount",
+            "field_name": "DueInstallmentAmount",
+            "input_type": "N"
+        },
+        {
+            "index": 52,
+            "ar_label": "cac7d1edce20c7e1c7d3cacddec7de",
+            "en_label": "DueInstallmentDate",
+            "field_name": "DueInstallmentDate",
+            "input_type": "S"
+        },
+        {
+            "index": 53,
+            "ar_label": "c7e1dbd1c7e3e520c7e1e3d3cacddee5",
+            "en_label": "PenaltyAmount",
+            "field_name": "PenaltyAmount",
+            "input_type": "S"
+        },
+        {
+            "index": 54,
+            "ar_label": "c7e1deede3c920c7e1e3cac8deede5",
+            "en_label": "OutstandingAmount",
+            "field_name": "OutstandingAmount",
+            "input_type": "N"
+        },
+        {
+            "index": 55,
+            "ar_label": "c7e1c7ded3c7d820c7e1e3cfdde6dac9",
+            "en_label": "PaidAmount",
+            "field_name": "PaidAmount",
+            "input_type": "S"
+        },
+        {
+            "index": 56,
+            "ar_label": "c7e1cdcf20c7e1c3ded5ec",
+            "en_label": "MaxPayAmount",
+            "field_name": "MaxPayAmount",
+            "input_type": "S"
+        },
+        {
+            "index": 57,
+            "ar_label": "c7e1cdcf20c7e1c3cfe4ec",
+            "en_label": "MinPayAmount",
+            "field_name": "MinPayAmount",
+            "input_type": "S"
+        },
+        {
+            "index": 58,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "CustNo",
+            "field_name": "CustNo",
+            "input_type": "S"
+        },
+        {
+            "index": 59,
+            "ar_label": "d1dee320c7e1ded3d8",
+            "en_label": "LastInstallmentNo",
+            "field_name": "LastInstallmentNo",
+            "input_type": "S"
+        },
+        {
+            "index": 60,
+            "ar_label": "dacfcf20c7e1c3ded3c7d820c7e1e3cfdde6dac9",
+            "en_label": "PaindInstallmentCount",
+            "field_name": "PaindInstallmentCount",
+            "input_type": "S"
+        },
+        {
+            "index": 61,
+            "ar_label": "dacfcf20c7e1c3ded3c7d820c7e1e3cac8deedc9",
+            "en_label": "RemainingInstallmentCount",
+            "field_name": "RemainingInstallmentCount",
+            "input_type": "S"
+        },
+        {
+            "index": 62,
+            "ar_label": "c7d3e320c7e1dae3ede1",
+            "en_label": "CustomerName",
+            "field_name": "CustomerName",
+            "input_type": "S"
+        },
+        {
+            "index": 63,
+            "ar_label": "d1dee320c7e1e6cdcfc9",
+            "en_label": "Unit Serial",
+            "field_name": "UnitSer",
+            "max_len": "20",
+            "min_len": "20",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "N"
+        },
+        {
+            "index": 64,
+            "ar_label": "c7d3e320c7e1e3d4cad1df",
+            "en_label": "SUBSCRIBER_NAME",
+            "field_name": "SUBSCRIBER_NAME",
+            "input_type": "S"
+        },
+        {
+            "index": 65,
+            "ar_label": "c7e1cdcf20c7e1c3ded5ec",
+            "en_label": "MAX_VALUE",
+            "field_name": "MAX_VALUE",
+            "input_type": "S"
+        },
+        {
+            "index": 66,
+            "ar_label": "c7e1cdcf20c7e1c3cfe4ec",
+            "en_label": "MIN_VALUE",
+            "field_name": "MIN_VALUE",
+            "input_type": "S"
+        },
+        {
+            "index": 67,
+            "ar_label": "d1dee320c7e1e3e6c8c7ede1",
+            "en_label": "Phone Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "",
+            "required": true,
+            "input_type": "N",
+            "is_password": false
+        },
+        {
+            "index": 68,
+            "ar_label": "d1dee320c7e1e3e6c8c7ede1",
+            "en_label": "Phone Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": 12,
+            "required": true,
+            "input_type": "N",
+            "is_password": false
+        },
+        {
+            "index": 69,
+            "ar_label": "d1dee320c7e1e5c7cadd",
+            "en_label": "Telephone Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 8,
+            "visible": true,
+            "default_val": "",
+            "required": true,
+            "input_type": "N",
+            "is_password": false
+        },
+        {
+            "index": 70,
+            "ar_label": "c7d3e320c7e1dae3ede1",
+            "en_label": "customername",
+            "field_name": "CustomerName",
+            "input_type": "S"
+        },
+        {
+            "index": 71,
+            "ar_label": "cac7d1edce20c7e1ddc7cae6d1c9",
+            "field_name": "billIssueDate",
+            "en_label": "Billll Due Date",
+            "input_type": "S"
+        },
+        {
+            "index": 72,
+            "ar_label": "d1dee320c7e1e5c7cadd",
+            "en_label": "Telephone Number",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "",
+            "required": true,
+            "input_type": "N",
+            "is_password": false
+        },
+        {
+            "index": 73,
+            "ar_label": "cac7d1edce20c7e4cae5c7c120c7e1d5e1c7cdedc9",
+            "en_label": "Expire Date",
+            "field_name": "VouchExpDt",
+            "input_type": "S"
+        },
+        {
+            "index": 74,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "012",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": false
+        },
+        {
+            "index": 75,
+            "ar_label": "d1dee320c7e1dae3ede1",
+            "en_label": "Phone",
+            "field_name": "customer_number",
+            "max_len": 11,
+            "min_len": 11,
+            "visible": true,
+            "default_val": "012",
+            "required": true,
+            "input_type": "N",
+            "is_password": false,
+            "confirmed": true
+        },
+        {
+            "index": 76,
+            "ar_label": "deede3c920c7e1ddc7cae6d1c9",
+            "en_label": "Customer Info",
+            "field_name": "current_amount",
+            "input_type": "S"
+        },
+        {
+            "index": 77,
+            "ar_label": "",
+            "en_label": "",
+            "field_name": "elec_data",
+            "max_len": "17",
+            "min_len": "1",
+            "visible": true,
+            "default_val": "",
+            "is_password": false,
+            "required": true,
+            "input_type": "W"
+        },
+        {
+            "index": 78,
+            "ar_label": "c7e1caddc7d5ede1",
+            "en_label": "E-Voucher Details",
+            "field_name": "info",
+            "input_type": "S"
+        },
+        {
+            "index": 79,
+            "ar_label": "52656465656d20436f6465",
+            "en_label": "Redeem Code",
+            "field_name": "esn_code",
+            "input_type": "S"
+        },
+        {
+            "index": 80,
+            "ar_label": "497373756520436f6465",
+            "en_label": "Issue Code",
+            "field_name": "issue_number",
+            "input_type": "S"
+        }
+    ]
+}

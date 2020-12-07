@@ -1,0 +1,685 @@
+{
+    "size": 25,
+    "data": [
+        {
+            "index": "0",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 1000000000,
+                        "scValue": 10
+                    }
+                ]
+            }
+        },
+        {
+            "index": "1",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "SP"
+                    }
+                ]
+            }
+        },
+        {
+            "index": "2",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "P",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 1
+                    }
+                ]
+            }
+        },
+        {
+            "index": "3",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "P",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 42.86
+                    }
+                ]
+            }
+        },
+        {
+            "index": "4",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "P",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 43
+                    }
+                ]
+            }
+        },
+        {
+            "index": "5",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "P",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 0
+                    }
+                ]
+            }
+        },
+        {
+            "index": "6",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60,
+                        "scValue": 2
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60,
+                        "toValue": 120,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120,
+                        "toValue": 180,
+                        "scValue": 3.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180,
+                        "toValue": 240,
+                        "scValue": 4
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240,
+                        "toValue": 1000000000,
+                        "scValue": 5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "7",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60,
+                        "scValue": 2
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60,
+                        "toValue": 120,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120,
+                        "toValue": 180,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180,
+                        "toValue": 240,
+                        "scValue": 4
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240,
+                        "toValue": 1000000000,
+                        "scValue": 5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "8",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60,
+                        "scValue": 1.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60,
+                        "toValue": 120,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120,
+                        "toValue": 180,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180,
+                        "toValue": 240,
+                        "scValue": 3.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240,
+                        "toValue": 1000000000,
+                        "scValue": 4
+                    }
+                ]
+            }
+        },
+        {
+            "index": "9",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60.01,
+                        "scValue": 2
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60.01,
+                        "toValue": 120.01,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120.01,
+                        "toValue": 180.01,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180.01,
+                        "toValue": 240.01,
+                        "scValue": 4
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240.01,
+                        "toValue": 1000000000,
+                        "scValue": 5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "10",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 3.5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "11",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 4
+                    }
+                ]
+            }
+        },
+        {
+            "index": "12",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 3
+                    }
+                ]
+            }
+        },
+        {
+            "index": "13",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 4,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 25.1,
+                        "scValue": 1.71
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 25.1,
+                        "toValue": 55.1,
+                        "scValue": 3.42
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 55.1,
+                        "toValue": 100.1,
+                        "scValue": 5.13
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 100.1,
+                        "toValue": 1000000000,
+                        "scValue": 5.7
+                    }
+                ]
+            }
+        },
+        {
+            "index": "14",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 0,
+                        "toValue": 1000000000,
+                        "scValue": 0
+                    }
+                ]
+            }
+        },
+        {
+            "index": "15",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "fromValue": 0,
+                        "toValue": 1000,
+                        "scValue": 0,
+                        "scValueType": "P"
+                    }
+                ]
+            }
+        },
+        {
+            "index": "16",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 0,
+                        "toValue": 10,
+                        "scValue": 1.14
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 10,
+                        "toValue": 50,
+                        "scValue": 2.28
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 50,
+                        "toValue": 100,
+                        "scValue": 3.42
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 100,
+                        "toValue": 150,
+                        "scValue": 4.56
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 150,
+                        "toValue": 100000,
+                        "scValue": 5.7
+                    }
+                ]
+            }
+        },
+        {
+            "index": "17",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 3,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 800,
+                        "scValue": 4.56
+                    },
+                    {
+                        "scValueType": "P",
+                        "fromValue": 800,
+                        "toValue": 5000,
+                        "scValue": 0.57
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 5000,
+                        "toValue": 1000000000,
+                        "scValue": 28.5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "18",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 10,
+                        "scValue": 1.14
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 10,
+                        "toValue": 50,
+                        "scValue": 2.28
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 50,
+                        "toValue": 100,
+                        "scValue": 3.42
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 100,
+                        "toValue": 150,
+                        "scValue": 4.56
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 150,
+                        "toValue": 10000000,
+                        "scValue": 5.7
+                    }
+                ]
+            }
+        },
+        {
+            "index": "19",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60,
+                        "toValue": 120,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120,
+                        "toValue": 180,
+                        "scValue": 3.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180,
+                        "toValue": 240,
+                        "scValue": 4
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240,
+                        "toValue": 1000000000,
+                        "scValue": 5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "20",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 2,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 50,
+                        "scValue": 2
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 50,
+                        "toValue": 15000,
+                        "scValue": 3.5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "21",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 2,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 90,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 90,
+                        "toValue": 10000,
+                        "scValue": 4
+                    }
+                ]
+            }
+        },
+        {
+            "index": "22",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60.01,
+                        "scValue": 2
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60.01,
+                        "toValue": 120.01,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120.01,
+                        "toValue": 180.01,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180.01,
+                        "toValue": 240.01,
+                        "scValue": 4
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240.01,
+                        "toValue": 20000,
+                        "scValue": 5
+                    }
+                ]
+            }
+        },
+        {
+            "index": "23",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 5,
+                "data": [
+                    {
+                        "scValueType": "F",
+                        "fromValue": 1,
+                        "toValue": 60,
+                        "scValue": 1.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 60,
+                        "toValue": 120,
+                        "scValue": 2.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 120,
+                        "toValue": 180,
+                        "scValue": 3
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 180,
+                        "toValue": 240,
+                        "scValue": 3.5
+                    },
+                    {
+                        "scValueType": "F",
+                        "fromValue": 240,
+                        "toValue": 20000,
+                        "scValue": 4
+                    }
+                ]
+            }
+        },
+        {
+            "index": "24",
+            "desc": "",
+            "name": "service_charge",
+            "label": "cadfe1ddc920c7e1cecfe3c9",
+            "slides": {
+                "size": 1,
+                "data": [
+                    {
+                        "fromValue": 0,
+                        "toValue": 100000,
+                        "scValue": 0,
+                        "scValueType": "P"
+                    }
+                ]
+            }
+        }
+    ]
+}
