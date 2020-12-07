@@ -1,0 +1,2427 @@
+{
+    "version": "1.35",
+    "size": 269,
+    "items": [
+        {
+            "id": 1,
+            "name": "cecfe3c7ca20c5cad5c7e1",
+            "parent_id": 0,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 24,
+            "name": "cecfe3c7ca20cddfe6e3edc9",
+            "parent_id": 0,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 381,
+            "name": "d4cde420c3e1dac7c8",
+            "parent_id": 0,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 28,
+            "name": "d6d1c7c6c8",
+            "parent_id": 0,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 71,
+            "name": "cac8d1dac7ca",
+            "parent_id": 0,
+            "sequence": 5,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 100,
+            "name": "e3dac7e3e1c7ca20e3c7e1edc9",
+            "parent_id": 0,
+            "sequence": 6,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 114,
+            "name": "cadae1ede3",
+            "parent_id": 0,
+            "sequence": 7,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 116,
+            "name": "d3ec20c7e420c7ec",
+            "parent_id": 0,
+            "sequence": 8,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 118,
+            "name": "e6d3c7c6e120e4dee1",
+            "parent_id": 0,
+            "sequence": 9,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 148,
+            "name": "cecfe3c7ca20cae3e6ede4edc9",
+            "parent_id": 0,
+            "sequence": 10,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 276,
+            "name": "5152",
+            "parent_id": 0,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 213,
+            "menu_group_id": 1
+        },
+        {
+            "id": 290,
+            "name": "dfe6d1d3c7ca",
+            "parent_id": 0,
+            "sequence": 12,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 333,
+            "name": "cecfe3c7ca20c7e6d1c7e4cc",
+            "parent_id": 0,
+            "sequence": 13,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 34,
+            "name": "dde6cfc7dde6e4",
+            "parent_id": 1,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 38,
+            "name": "c7e6d1c7e4cc",
+            "parent_id": 1,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 42,
+            "name": "5745",
+            "parent_id": 1,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 46,
+            "name": "c7cad5c7e1c7ca",
+            "parent_id": 1,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 99,
+            "name": "dde6c7caedd120c3d1d6ec",
+            "parent_id": 1,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 81,
+            "menu_group_id": 2
+        },
+        {
+            "id": 3,
+            "name": "cce4e6c820c7e1dec7e5d1c9",
+            "parent_id": 2,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 17,
+            "menu_group_id": 1
+        },
+        {
+            "id": 4,
+            "name": "d4e3c7e120c7e1dec7e5d1c9",
+            "parent_id": 2,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 18,
+            "menu_group_id": 1
+        },
+        {
+            "id": 5,
+            "name": "cce4e6c820c7e1cfe1cac7",
+            "parent_id": 2,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 19,
+            "menu_group_id": 1
+        },
+        {
+            "id": 6,
+            "name": "d4e3c7e120c7e1cfe1cac7",
+            "parent_id": 2,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 20,
+            "menu_group_id": 1
+        },
+        {
+            "id": 7,
+            "name": "e3d5d120c7e1dae1edc7",
+            "parent_id": 2,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 21,
+            "menu_group_id": 1
+        },
+        {
+            "id": 8,
+            "name": "20c7e1c7d3dfe4cfd1edc9",
+            "parent_id": 2,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 22,
+            "menu_group_id": 1
+        },
+        {
+            "id": 9,
+            "name": "20c7e1dee4c7c9",
+            "parent_id": 2,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 23,
+            "menu_group_id": 1
+        },
+        {
+            "id": 10,
+            "name": "20e3d5d120c7e1e6d3d8ed",
+            "parent_id": 2,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 24,
+            "menu_group_id": 1
+        },
+        {
+            "id": 11,
+            "name": "c7e1c8cdedd1c9",
+            "parent_id": 2,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 25,
+            "menu_group_id": 1
+        },
+        {
+            "id": 278,
+            "name": "c7cecac8c7d1ec20ddc7cae6d1c9",
+            "parent_id": 2,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 26,
+            "menu_group_id": 1
+        },
+        {
+            "id": 13,
+            "name": "cce4e6c820c7e1dec7e5d1c9",
+            "parent_id": 12,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 8,
+            "menu_group_id": 1
+        },
+        {
+            "id": 14,
+            "name": "d4e3c7e120c7e1dec7e5d1c9",
+            "parent_id": 12,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 16,
+            "menu_group_id": 1
+        },
+        {
+            "id": 15,
+            "name": "cce4e6c820c7e1cfe1cac7",
+            "parent_id": 12,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 11,
+            "menu_group_id": 1
+        },
+        {
+            "id": 16,
+            "name": "d4e3c7e120c7e1cfe1cac7",
+            "parent_id": 12,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 14,
+            "menu_group_id": 1
+        },
+        {
+            "id": 17,
+            "name": "e3d5d120c7e1dae1edc7",
+            "parent_id": 12,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 12,
+            "menu_group_id": 1
+        },
+        {
+            "id": 19,
+            "name": "20c7e1dee4c7c9",
+            "parent_id": 12,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 15,
+            "menu_group_id": 1
+        },
+        {
+            "id": 20,
+            "name": "20e3d5d120c7e1e6d3d8ed",
+            "parent_id": 12,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 9,
+            "menu_group_id": 1
+        },
+        {
+            "id": 21,
+            "name": "c7e1c8cdedd1c9",
+            "parent_id": 12,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 10,
+            "menu_group_id": 1
+        },
+        {
+            "id": 32,
+            "name": "c7e1c7d3dfe4cfd1edc9",
+            "parent_id": 12,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 13,
+            "menu_group_id": 1
+        },
+        {
+            "id": 277,
+            "name": "c7cecac8c7d1ec20dfc7d1ca",
+            "parent_id": 12,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 27,
+            "menu_group_id": 1
+        },
+        {
+            "id": 289,
+            "name": "c7e1c7d3dfe4cfd1edc9",
+            "parent_id": 22,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 233,
+            "menu_group_id": 1
+        },
+        {
+            "id": 261,
+            "name": "c7e1dec7e5d1c9",
+            "parent_id": 22,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 211,
+            "menu_group_id": 1
+        },
+        {
+            "id": 348,
+            "name": "e3d1d3ed20e3d8d1e6cd",
+            "parent_id": 22,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 325,
+            "menu_group_id": 1
+        },
+        {
+            "id": 2,
+            "name": "ddc7cae6d1c920dfe5d1c8c7c1",
+            "parent_id": 24,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 12,
+            "name": "d4cde420dfc7d1ca20dfe5d1c8c7c1",
+            "parent_id": 24,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 288,
+            "name": "c8e6c7c8c920e3d5d120c7e1d1dee3edc9",
+            "parent_id": 24,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 232,
+            "menu_group_id": 1
+        },
+        {
+            "id": 22,
+            "name": "ddc7cae6d1c920e3edc7e5",
+            "parent_id": 24,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 143,
+            "name": "ddc7cae6d1c920dbc7d2",
+            "parent_id": 24,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 117,
+            "menu_group_id": 1
+        },
+        {
+            "id": 160,
+            "name": "e3cddfe3c920c3d3d1c920e4edc7c8c920",
+            "parent_id": 24,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 131,
+            "menu_group_id": 1
+        },
+        {
+            "id": 161,
+            "name": "cdc7e1c920d4ced5edc920e4edc7c8c920",
+            "parent_id": 24,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 132,
+            "menu_group_id": 1
+        },
+        {
+            "id": 162,
+            "name": "cecfe3c7ca20c7e1cae6cbedde",
+            "parent_id": 24,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 133,
+            "menu_group_id": 1
+        },
+        {
+            "id": 167,
+            "name": "c5e4ddc7d020c7e1dec7e4e6e420e4edc7c8c920",
+            "parent_id": 24,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 137,
+            "menu_group_id": 1
+        },
+        {
+            "id": 367,
+            "name": "d4cde420dfc7d1ca20e3edc7e5",
+            "parent_id": 24,
+            "sequence": 10,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 117,
+            "name": "d6d1c7c6c820dadec7d1edc9",
+            "parent_id": 28,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 94,
+            "menu_group_id": 1
+        },
+        {
+            "id": 35,
+            "name": "d4cde420d1d5edcf",
+            "parent_id": 34,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 37,
+            "name": "d3cfc7cf20dde6c7caedd1",
+            "parent_id": 34,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 50,
+            "menu_group_id": 2
+        },
+        {
+            "id": 50,
+            "name": "dfd1e6ca20dde6cfc7dde6e4",
+            "parent_id": 34,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 36,
+            "name": "d4cde420e5e6c7",
+            "parent_id": 35,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 32,
+            "menu_group_id": 2
+        },
+        {
+            "id": 379,
+            "name": "e3c7d1cf20313020cc20cfdec7edde",
+            "parent_id": 35,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 342,
+            "menu_group_id": 2
+        },
+        {
+            "id": 380,
+            "name": "e3c7d1cf20313020cc20dde1eddfd3c7ca",
+            "parent_id": 35,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 343,
+            "menu_group_id": 2
+        },
+        {
+            "id": 39,
+            "name": "d4cde420d1d5edcf",
+            "parent_id": 38,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 33,
+            "menu_group_id": 2
+        },
+        {
+            "id": 41,
+            "name": "d3cfc7cf20dde6c7caedd1",
+            "parent_id": 38,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 51,
+            "menu_group_id": 2
+        },
+        {
+            "id": 58,
+            "name": "dfd1e6ca20c3e6d1c7e4cc",
+            "parent_id": 38,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 96,
+            "name": "c7e4cad1e4ca",
+            "parent_id": 38,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 78,
+            "menu_group_id": 2
+        },
+        {
+            "id": 40,
+            "name": "d4cde420e5e6c7",
+            "parent_id": 39,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 33,
+            "menu_group_id": 2
+        },
+        {
+            "id": 410,
+            "name": "e62ec3cdd3e420e4c7d320322e3235",
+            "parent_id": 39,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 365,
+            "menu_group_id": 2
+        },
+        {
+            "id": 411,
+            "name": "e62ec3cdd3e420e4c7d320342e3235",
+            "parent_id": 39,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 366,
+            "menu_group_id": 2
+        },
+        {
+            "id": 369,
+            "name": "e62ec3cdd3e420e4c7d32035",
+            "parent_id": 39,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 332,
+            "menu_group_id": 2
+        },
+        {
+            "id": 370,
+            "name": "e62ec3cdd3e420e4c7d32037",
+            "parent_id": 39,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 333,
+            "menu_group_id": 2
+        },
+        {
+            "id": 412,
+            "name": "e62ec3cdd3e420e4c7d32039",
+            "parent_id": 39,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 367,
+            "menu_group_id": 2
+        },
+        {
+            "id": 371,
+            "name": "e62ec3cdd3e420e4c7d3203130",
+            "parent_id": 39,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 334,
+            "menu_group_id": 2
+        },
+        {
+            "id": 372,
+            "name": "e62ec3cdd3e420e4c7d3203135",
+            "parent_id": 39,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 335,
+            "menu_group_id": 2
+        },
+        {
+            "id": 373,
+            "name": "e62ec3cdd3e420e4c7d3203235",
+            "parent_id": 39,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 336,
+            "menu_group_id": 2
+        },
+        {
+            "id": 407,
+            "name": "20c32ee4c7d320e3edccc720322e323520",
+            "parent_id": 39,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 362,
+            "menu_group_id": 2
+        },
+        {
+            "id": 408,
+            "name": "20c32ee4c7d320e3edccc720342e323520",
+            "parent_id": 39,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 363,
+            "menu_group_id": 2
+        },
+        {
+            "id": 374,
+            "name": "20c32e20e4c7d320e3edccc7c8cad3203520",
+            "parent_id": 39,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 337,
+            "menu_group_id": 2
+        },
+        {
+            "id": 375,
+            "name": "20c32ee4c7d320e3edccc7c8cad3203720",
+            "parent_id": 39,
+            "sequence": 13,
+            "flag": "L",
+            "damen_code": 338,
+            "menu_group_id": 2
+        },
+        {
+            "id": 409,
+            "name": "20c32ee4c7d320e3edccc7c8cad3203920",
+            "parent_id": 39,
+            "sequence": 14,
+            "flag": "L",
+            "damen_code": 362,
+            "menu_group_id": 2
+        },
+        {
+            "id": 376,
+            "name": "20c32ee4c7d320e3edccc7c8cad320313020",
+            "parent_id": 39,
+            "sequence": 15,
+            "flag": "L",
+            "damen_code": 339,
+            "menu_group_id": 2
+        },
+        {
+            "id": 377,
+            "name": "20c32ee4c7d320e3edccc7c8cad320313520",
+            "parent_id": 39,
+            "sequence": 16,
+            "flag": "L",
+            "damen_code": 340,
+            "menu_group_id": 2
+        },
+        {
+            "id": 378,
+            "name": "20c32ee4c7d320e3edccc7c8cad320323520",
+            "parent_id": 39,
+            "sequence": 17,
+            "flag": "L",
+            "damen_code": 341,
+            "menu_group_id": 2
+        },
+        {
+            "id": 43,
+            "name": "d4cde420d1d5edcf",
+            "parent_id": 42,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 35,
+            "menu_group_id": 2
+        },
+        {
+            "id": 81,
+            "name": "d3cfc7cf20dde6c7caedd1",
+            "parent_id": 42,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 76,
+            "menu_group_id": 2
+        },
+        {
+            "id": 93,
+            "name": "dfd1e6ca205745",
+            "parent_id": 42,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 97,
+            "name": "c7e4cad1e4ca",
+            "parent_id": 42,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 47,
+            "name": "d4cde420d1d5edcf",
+            "parent_id": 46,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 34,
+            "menu_group_id": 2
+        },
+        {
+            "id": 49,
+            "name": "d3cfc7cf20dde6c7caedd1",
+            "parent_id": 46,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 48,
+            "menu_group_id": 2
+        },
+        {
+            "id": 60,
+            "name": "dfd1e6ca20c7cad5c7e1c7ca",
+            "parent_id": 46,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 2
+        },
+        {
+            "id": 98,
+            "name": "c7e4cad1e4ca",
+            "parent_id": 46,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 79,
+            "menu_group_id": 2
+        },
+        {
+            "id": 130,
+            "name": "dfc7d1ca20dddfc92032",
+            "parent_id": 50,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 106,
+            "menu_group_id": 2
+        },
+        {
+            "id": 266,
+            "name": "dfc7d1ca20dddfc920342e3235",
+            "parent_id": 50,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 214,
+            "menu_group_id": 2
+        },
+        {
+            "id": 53,
+            "name": "dfe6c8e6e42035",
+            "parent_id": 50,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 38,
+            "menu_group_id": 2
+        },
+        {
+            "id": 267,
+            "name": "dfc7d1ca20dddfc92036",
+            "parent_id": 50,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 215,
+            "menu_group_id": 2
+        },
+        {
+            "id": 285,
+            "name": "dfe6c8e6e42037",
+            "parent_id": 50,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 229,
+            "menu_group_id": 2
+        },
+        {
+            "id": 268,
+            "name": "dfc7d1ca20dddfc92038",
+            "parent_id": 50,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 216,
+            "menu_group_id": 2
+        },
+        {
+            "id": 54,
+            "name": "dfe6c8e6e4203130",
+            "parent_id": 50,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 39,
+            "menu_group_id": 2
+        },
+        {
+            "id": 55,
+            "name": "dfe6c8e6e4203135",
+            "parent_id": 50,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 40,
+            "menu_group_id": 2
+        },
+        {
+            "id": 56,
+            "name": "dfe6c8e6e4203235",
+            "parent_id": 50,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 52,
+            "menu_group_id": 2
+        },
+        {
+            "id": 67,
+            "name": "dfe6c8e6e4203530",
+            "parent_id": 50,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 53,
+            "menu_group_id": 2
+        },
+        {
+            "id": 68,
+            "name": "dfe6c8e6e420313030",
+            "parent_id": 50,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 41,
+            "menu_group_id": 2
+        },
+        {
+            "id": 69,
+            "name": "dfe6c8e6e420323030",
+            "parent_id": 50,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 54,
+            "menu_group_id": 2
+        },
+        {
+            "id": 70,
+            "name": "e3c7d1cf20c7e1d4c8dfc7ca",
+            "parent_id": 50,
+            "sequence": 13,
+            "flag": "L",
+            "damen_code": 55,
+            "menu_group_id": 2
+        },
+        {
+            "id": 413,
+            "name": "c7dfd3cad1c720322e3235",
+            "parent_id": 58,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 368,
+            "menu_group_id": 2
+        },
+        {
+            "id": 280,
+            "name": "ddd6c920342e3235",
+            "parent_id": 58,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 224,
+            "menu_group_id": 2
+        },
+        {
+            "id": 414,
+            "name": "c7dfd3cad1c72035",
+            "parent_id": 58,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 369,
+            "menu_group_id": 2
+        },
+        {
+            "id": 415,
+            "name": "c7dfd3cad1c72037",
+            "parent_id": 58,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 370,
+            "menu_group_id": 2
+        },
+        {
+            "id": 416,
+            "name": "c7dfd3cad1c72039",
+            "parent_id": 58,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 371,
+            "menu_group_id": 2
+        },
+        {
+            "id": 74,
+            "name": "202e2e32352c31352c31302edf",
+            "parent_id": 58,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 43,
+            "menu_group_id": 2
+        },
+        {
+            "id": 61,
+            "name": "dfe6c8e6e420312e35",
+            "parent_id": 60,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 44,
+            "menu_group_id": 2
+        },
+        {
+            "id": 282,
+            "name": "dfe6c8e6e42032",
+            "parent_id": 60,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 226,
+            "menu_group_id": 2
+        },
+        {
+            "id": 62,
+            "name": "dfe6c8e6e420332e35",
+            "parent_id": 60,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 45,
+            "menu_group_id": 2
+        },
+        {
+            "id": 283,
+            "name": "dfe6c8e6e420342e3235",
+            "parent_id": 60,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 227,
+            "menu_group_id": 2
+        },
+        {
+            "id": 287,
+            "name": "c3dee6ec20dfc7d1ca2035",
+            "parent_id": 60,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 231,
+            "menu_group_id": 2
+        },
+        {
+            "id": 75,
+            "name": "dfe6c8e6e42037",
+            "parent_id": 60,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 59,
+            "menu_group_id": 2
+        },
+        {
+            "id": 281,
+            "name": "c3dee6ec20dfc7d1ca2039",
+            "parent_id": 60,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 225,
+            "menu_group_id": 2
+        },
+        {
+            "id": 76,
+            "name": "dfe6c8e6e4203130",
+            "parent_id": 60,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 60,
+            "menu_group_id": 2
+        },
+        {
+            "id": 77,
+            "name": "dfe6c8e6e4203135",
+            "parent_id": 60,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 61,
+            "menu_group_id": 2
+        },
+        {
+            "id": 78,
+            "name": "dfe6c8e6e43235",
+            "parent_id": 60,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 62,
+            "menu_group_id": 2
+        },
+        {
+            "id": 284,
+            "name": "c3dee6ec20dfc7d1ca203330",
+            "parent_id": 60,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 228,
+            "menu_group_id": 2
+        },
+        {
+            "id": 79,
+            "name": "dfe6c8e6e4203530",
+            "parent_id": 60,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 63,
+            "menu_group_id": 2
+        },
+        {
+            "id": 80,
+            "name": "dfe6c8e6e420313030",
+            "parent_id": 60,
+            "sequence": 13,
+            "flag": "L",
+            "damen_code": 64,
+            "menu_group_id": 2
+        },
+        {
+            "id": 65,
+            "name": "d2dfc7c9",
+            "parent_id": 64,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 47,
+            "menu_group_id": 1
+        },
+        {
+            "id": 66,
+            "name": "d5cfdec9",
+            "parent_id": 64,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 49,
+            "menu_group_id": 1
+        },
+        {
+            "id": 64,
+            "name": "c8edca20c7e1d2dfc7c920e6c7e1d5cfdec7ca",
+            "parent_id": 71,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 103,
+            "name": "e3d5d120c7e1ceedd1",
+            "parent_id": 71,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 132,
+            "name": "c8e4df20c7e1d8dac7e3",
+            "parent_id": 71,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 122,
+            "name": "cce3daedc920c7e1c3e6d1e3c7e4",
+            "parent_id": 71,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 168,
+            "name": "d5e4c7da20c7e1cdedc7c9",
+            "parent_id": 71,
+            "sequence": 5,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 224,
+            "name": "e4c8da20c7e1cdedc7c920",
+            "parent_id": 71,
+            "sequence": 6,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 243,
+            "name": "c3e6d1c7e320c7e1ddede6e3",
+            "parent_id": 71,
+            "sequence": 7,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 82,
+            "name": "dfc7d1ca2035",
+            "parent_id": 93,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 65,
+            "menu_group_id": 2
+        },
+        {
+            "id": 83,
+            "name": "dfc7d1ca203130",
+            "parent_id": 93,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 66,
+            "menu_group_id": 2
+        },
+        {
+            "id": 84,
+            "name": "dfc7d1ca203135",
+            "parent_id": 93,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 67,
+            "menu_group_id": 2
+        },
+        {
+            "id": 85,
+            "name": "dfc7d1ca203235",
+            "parent_id": 93,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 68,
+            "menu_group_id": 2
+        },
+        {
+            "id": 86,
+            "name": "dfc7d1ca203330",
+            "parent_id": 93,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 69,
+            "menu_group_id": 2
+        },
+        {
+            "id": 87,
+            "name": "dfc7d1ca203430",
+            "parent_id": 93,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 70,
+            "menu_group_id": 2
+        },
+        {
+            "id": 88,
+            "name": "dfc7d1ca203530",
+            "parent_id": 93,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 71,
+            "menu_group_id": 2
+        },
+        {
+            "id": 89,
+            "name": "dfc7d1ca203630",
+            "parent_id": 93,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 72,
+            "menu_group_id": 2
+        },
+        {
+            "id": 90,
+            "name": "dfc7d1ca203735",
+            "parent_id": 93,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 73,
+            "menu_group_id": 2
+        },
+        {
+            "id": 91,
+            "name": "dfc7d1ca20313030",
+            "parent_id": 93,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 74,
+            "menu_group_id": 2
+        },
+        {
+            "id": 92,
+            "name": "dfc7d1ca20313530",
+            "parent_id": 93,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 75,
+            "menu_group_id": 2
+        },
+        {
+            "id": 163,
+            "name": "544564617461204144534c",
+            "parent_id": 97,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 77,
+            "menu_group_id": 2
+        },
+        {
+            "id": 164,
+            "name": "c8c7dec920323020ccedccc7",
+            "parent_id": 97,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 134,
+            "menu_group_id": 2
+        },
+        {
+            "id": 165,
+            "name": "c8c7dec920353020ccedccc7",
+            "parent_id": 97,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 135,
+            "menu_group_id": 2
+        },
+        {
+            "id": 166,
+            "name": "c8c7dec92031303020ccedccc7",
+            "parent_id": 97,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 136,
+            "menu_group_id": 2
+        },
+        {
+            "id": 101,
+            "name": "ddc7e1ede6",
+            "parent_id": 100,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 82,
+            "menu_group_id": 1
+        },
+        {
+            "id": 121,
+            "name": "dae1ed20dfc7e3",
+            "parent_id": 100,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 97,
+            "menu_group_id": 1
+        },
+        {
+            "id": 150,
+            "name": "e3d5d120c7e1ceedd1",
+            "parent_id": 100,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 292,
+            "name": "dde6cfc7dde6e420dfc7d4",
+            "parent_id": 100,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 295,
+            "name": "cae4e3edc9",
+            "parent_id": 100,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 237,
+            "menu_group_id": 1
+        },
+        {
+            "id": 104,
+            "name": "d2dfc7c9",
+            "parent_id": 103,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 84,
+            "menu_group_id": 1
+        },
+        {
+            "id": 105,
+            "name": "d5cfdec9",
+            "parent_id": 103,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 85,
+            "menu_group_id": 1
+        },
+        {
+            "id": 107,
+            "name": "dbc7d1e3ede4",
+            "parent_id": 103,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 87,
+            "menu_group_id": 1
+        },
+        {
+            "id": 158,
+            "name": "e3cfc7d1d320e3cccae3daedc9",
+            "parent_id": 103,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 129,
+            "menu_group_id": 1
+        },
+        {
+            "id": 159,
+            "name": "cac8d1da20d4e5d1ec",
+            "parent_id": 103,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 130,
+            "menu_group_id": 1
+        },
+        {
+            "id": 240,
+            "name": "d3e5e320c5dbc7cbc9",
+            "parent_id": 103,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 193,
+            "menu_group_id": 1
+        },
+        {
+            "id": 241,
+            "name": "dfd1cae6e4c920c5dbc7cbc9",
+            "parent_id": 103,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 194,
+            "menu_group_id": 1
+        },
+        {
+            "id": 102,
+            "name": "e6dedd",
+            "parent_id": 103,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 83,
+            "menu_group_id": 1
+        },
+        {
+            "id": 275,
+            "name": "d5df20c7e1c3d6cdedc9",
+            "parent_id": 103,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 222,
+            "menu_group_id": 1
+        },
+        {
+            "id": 273,
+            "name": "e1cde6e320d5cfdec920313030",
+            "parent_id": 103,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 220,
+            "menu_group_id": 1
+        },
+        {
+            "id": 274,
+            "name": "e1cde6e320d5cfdec920323030",
+            "parent_id": 103,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 221,
+            "menu_group_id": 1
+        },
+        {
+            "id": 362,
+            "name": "df2e20dbd0c7c6edc9203131dfcce3",
+            "parent_id": 103,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 403,
+            "menu_group_id": 1
+        },
+        {
+            "id": 363,
+            "name": "dbd8c7c1",
+            "parent_id": 103,
+            "sequence": 13,
+            "flag": "L",
+            "damen_code": 404,
+            "menu_group_id": 1
+        },
+        {
+            "id": 364,
+            "name": "e32e20d4cae6ed20c3d8ddc7e1",
+            "parent_id": 103,
+            "sequence": 14,
+            "flag": "L",
+            "damen_code": 405,
+            "menu_group_id": 1
+        },
+        {
+            "id": 365,
+            "name": "cad1e3ede320e3e4d2e1",
+            "parent_id": 103,
+            "sequence": 15,
+            "flag": "L",
+            "damen_code": 406,
+            "menu_group_id": 1
+        },
+        {
+            "id": 366,
+            "name": "d3e5e320cad1e3ede320e3e4d2e1",
+            "parent_id": 103,
+            "sequence": 16,
+            "flag": "L",
+            "damen_code": 407,
+            "menu_group_id": 1
+        },
+        {
+            "id": 115,
+            "name": "ccc7e3dac920daede420d4e3d3",
+            "parent_id": 114,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 108,
+            "menu_group_id": 1
+        },
+        {
+            "id": 190,
+            "name": "ccc7e3dac920c7e1c7d3dfe4cfd1ede5",
+            "parent_id": 114,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 143,
+            "menu_group_id": 1
+        },
+        {
+            "id": 191,
+            "name": "ccc7e3dac920c7e1e3e4d5e6d1c9",
+            "parent_id": 114,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 144,
+            "menu_group_id": 1
+        },
+        {
+            "id": 192,
+            "name": "ccc7e3dac920cce4e6c820c7e1e6c7cfed",
+            "parent_id": 114,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 145,
+            "menu_group_id": 1
+        },
+        {
+            "id": 193,
+            "name": "ccc7e3dac920cde1e6c7e4",
+            "parent_id": 114,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 146,
+            "menu_group_id": 1
+        },
+        {
+            "id": 194,
+            "name": "ccc7e3dac920c7e1dec7e5d1e5",
+            "parent_id": 114,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 147,
+            "menu_group_id": 1
+        },
+        {
+            "id": 195,
+            "name": "ccc7e3dae520c8e6d1d3daedcf",
+            "parent_id": 114,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 148,
+            "menu_group_id": 1
+        },
+        {
+            "id": 196,
+            "name": "ccc7e3dae520d3e6e5c7cc",
+            "parent_id": 114,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 149,
+            "menu_group_id": 1
+        },
+        {
+            "id": 197,
+            "name": "ccc7e3dae520c7e1d3e6edd3",
+            "parent_id": 114,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 150,
+            "menu_group_id": 1
+        },
+        {
+            "id": 198,
+            "name": "ccc7e3dac920d8e4d8c7",
+            "parent_id": 114,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 151,
+            "menu_group_id": 1
+        },
+        {
+            "id": 199,
+            "name": "ccc7e3dac920c7e1d2dec7d2edde",
+            "parent_id": 114,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 152,
+            "menu_group_id": 1
+        },
+        {
+            "id": 417,
+            "name": "ccc7e3dac920c7e1e3e4e6ddedc9",
+            "parent_id": 114,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 375,
+            "menu_group_id": 1
+        },
+        {
+            "id": 25,
+            "name": "c7ed20c7d120caed",
+            "parent_id": 116,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 2,
+            "menu_group_id": 1
+        },
+        {
+            "id": 26,
+            "name": "c8ed20c7e420d3c8e6d1ca",
+            "parent_id": 116,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 3,
+            "menu_group_id": 1
+        },
+        {
+            "id": 27,
+            "name": "e3cfdde6dac7ca20e3c8c7d4d1c9",
+            "parent_id": 116,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 4,
+            "menu_group_id": 1
+        },
+        {
+            "id": 119,
+            "name": "cce620c8c7d5",
+            "parent_id": 118,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 95,
+            "menu_group_id": 1
+        },
+        {
+            "id": 144,
+            "name": "e3d5d120e1e1d8edd1c7e4",
+            "parent_id": 118,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 118,
+            "menu_group_id": 1
+        },
+        {
+            "id": 145,
+            "name": "54726176656c205374617274",
+            "parent_id": 118,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 119,
+            "menu_group_id": 1
+        },
+        {
+            "id": 146,
+            "name": "e4d3e3c720e1e1d8edd1c7e4",
+            "parent_id": 118,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 120,
+            "menu_group_id": 1
+        },
+        {
+            "id": 147,
+            "name": "c7e1d1c8edda20e1e1d3edc7cdc9",
+            "parent_id": 118,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 121,
+            "menu_group_id": 1
+        },
+        {
+            "id": 200,
+            "name": "d4ddc720c7e1c7e6d1e3c7e4",
+            "parent_id": 122,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 153,
+            "menu_group_id": 1
+        },
+        {
+            "id": 201,
+            "name": "dae3e1edc7ca20dee1c8",
+            "parent_id": 122,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 154,
+            "menu_group_id": 1
+        },
+        {
+            "id": 202,
+            "name": "dae3e1edc7ca20daede6e4",
+            "parent_id": 122,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 155,
+            "menu_group_id": 1
+        },
+        {
+            "id": 207,
+            "name": "c7edcac7e3",
+            "parent_id": 122,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 160,
+            "menu_group_id": 1
+        },
+        {
+            "id": 203,
+            "name": "c7cce5d2c920cadae6edd6edc9",
+            "parent_id": 122,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 156,
+            "menu_group_id": 1
+        },
+        {
+            "id": 210,
+            "name": "d2dfc7c920",
+            "parent_id": 122,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 163,
+            "menu_group_id": 1
+        },
+        {
+            "id": 209,
+            "name": "d5cfdec920ccc7d1edc9",
+            "parent_id": 122,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 162,
+            "menu_group_id": 1
+        },
+        {
+            "id": 220,
+            "name": "dfd1cae6e4c920d1e3d6c7e4",
+            "parent_id": 122,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 173,
+            "menu_group_id": 1
+        },
+        {
+            "id": 272,
+            "name": "d5df20c3d6cdedc9",
+            "parent_id": 122,
+            "sequence": 9,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 205,
+            "name": "c8d8c7e4edc9",
+            "parent_id": 122,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 158,
+            "menu_group_id": 1
+        },
+        {
+            "id": 134,
+            "name": "d5df20c8e1cfed",
+            "parent_id": 132,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 110,
+            "menu_group_id": 1
+        },
+        {
+            "id": 135,
+            "name": "d5df20e3d3cae6d1cf",
+            "parent_id": 132,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 109,
+            "menu_group_id": 1
+        },
+        {
+            "id": 222,
+            "name": "ddc7decf2fcac7e1dd2dcac7ccd1",
+            "parent_id": 148,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 175,
+            "menu_group_id": 1
+        },
+        {
+            "id": 151,
+            "name": "c7ded3c7d820cae6e1edcf20cfcee1",
+            "parent_id": 150,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 123,
+            "menu_group_id": 1
+        },
+        {
+            "id": 153,
+            "name": "e3c7dfede4c7ca20cccfedcfc9",
+            "parent_id": 152,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 124,
+            "menu_group_id": 1
+        },
+        {
+            "id": 154,
+            "name": "ded8da20dbedc7d1",
+            "parent_id": 152,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 125,
+            "menu_group_id": 1
+        },
+        {
+            "id": 249,
+            "name": "d5d1dd20c7dac7e4c7ca",
+            "parent_id": 168,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 250,
+            "name": "cce3da20cac8d1dac7ca",
+            "parent_id": 168,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 263,
+            "name": "d5d1dd20c7dac7e4c7ca",
+            "parent_id": 168,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 225,
+            "name": "dfddc7e1c920c7d3d1",
+            "parent_id": 224,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 178,
+            "menu_group_id": 1
+        },
+        {
+            "id": 226,
+            "name": "20dfddc7e1c920c7d8ddc7e1",
+            "parent_id": 224,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 179,
+            "menu_group_id": 1
+        },
+        {
+            "id": 227,
+            "name": "20c7dae3c7d120e3e4c7d2e1",
+            "parent_id": 224,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 180,
+            "menu_group_id": 1
+        },
+        {
+            "id": 228,
+            "name": "dae3e1edc7ca20daede6e420e6cee1c7dde5",
+            "parent_id": 224,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 181,
+            "menu_group_id": 1
+        },
+        {
+            "id": 229,
+            "name": "dfd1cae6e4c920c7d8dac7e320d4e5d1ede5",
+            "parent_id": 224,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 182,
+            "menu_group_id": 1
+        },
+        {
+            "id": 230,
+            "name": "dfd1cae6e4e520d1e3d6c7e4",
+            "parent_id": 224,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 183,
+            "menu_group_id": 1
+        },
+        {
+            "id": 231,
+            "name": "d5cfdec920e1cde6e320d4e5d1ede5",
+            "parent_id": 224,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 184,
+            "menu_group_id": 1
+        },
+        {
+            "id": 232,
+            "name": "c8d8c7d8ede4",
+            "parent_id": 224,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 185,
+            "menu_group_id": 1
+        },
+        {
+            "id": 233,
+            "name": "d5df20c7e1c7d6cdede5",
+            "parent_id": 224,
+            "sequence": 9,
+            "flag": "L",
+            "damen_code": 186,
+            "menu_group_id": 1
+        },
+        {
+            "id": 234,
+            "name": "e3d1dfd220dfddd120cfc7e6cf20c7e1d8c8ed",
+            "parent_id": 224,
+            "sequence": 10,
+            "flag": "L",
+            "damen_code": 187,
+            "menu_group_id": 1
+        },
+        {
+            "id": 235,
+            "name": "c7e4d4c7c1c7ca",
+            "parent_id": 224,
+            "sequence": 11,
+            "flag": "L",
+            "damen_code": 188,
+            "menu_group_id": 1
+        },
+        {
+            "id": 236,
+            "name": "dbd1ddc920c7e1d1dac7ede5",
+            "parent_id": 224,
+            "sequence": 12,
+            "flag": "L",
+            "damen_code": 189,
+            "menu_group_id": 1
+        },
+        {
+            "id": 237,
+            "name": "dbd1ddc920c7e1d8e6c7d1ecc1",
+            "parent_id": 224,
+            "sequence": 13,
+            "flag": "L",
+            "damen_code": 190,
+            "menu_group_id": 1
+        },
+        {
+            "id": 238,
+            "name": "cdd6c7e4c7ca20c7e1c7d8ddc7e1",
+            "parent_id": 224,
+            "sequence": 14,
+            "flag": "L",
+            "damen_code": 191,
+            "menu_group_id": 1
+        },
+        {
+            "id": 239,
+            "name": "20cbe1c7ccc920cdddd920e3e6caec",
+            "parent_id": 224,
+            "sequence": 15,
+            "flag": "L",
+            "damen_code": 192,
+            "menu_group_id": 1
+        },
+        {
+            "id": 279,
+            "name": "e1cde6e320d5cfdec920323030",
+            "parent_id": 224,
+            "sequence": 16,
+            "flag": "L",
+            "damen_code": 223,
+            "menu_group_id": 1
+        },
+        {
+            "id": 244,
+            "name": "dfddc7e1c920e3d1edd620dfede3c7e6ed",
+            "parent_id": 243,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 196,
+            "menu_group_id": 1
+        },
+        {
+            "id": 245,
+            "name": "dfddc7e1c920e3d1edd620c7d4dac7daed",
+            "parent_id": 243,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 197,
+            "menu_group_id": 1
+        },
+        {
+            "id": 246,
+            "name": "c8e4c7c12fcacce5edd220dbd1dd20dae3",
+            "parent_id": 243,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 198,
+            "menu_group_id": 1
+        },
+        {
+            "id": 247,
+            "name": "cce5c7d220c2d4dac920e3ded8daedc9",
+            "parent_id": 243,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 199,
+            "menu_group_id": 1
+        },
+        {
+            "id": 248,
+            "name": "cac8d1da20e1e6cdcfc920c7e1e3e4c7d9edd1",
+            "parent_id": 243,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 200,
+            "menu_group_id": 1
+        },
+        {
+            "id": 251,
+            "name": "c7e1e4c7d320e1c8dad6e5c7",
+            "parent_id": 250,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 201,
+            "menu_group_id": 1
+        },
+        {
+            "id": 252,
+            "name": "d1d2de20cde1c7e1",
+            "parent_id": 250,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 202,
+            "menu_group_id": 1
+        },
+        {
+            "id": 253,
+            "name": "dfe3e120c8ede6cae5e3",
+            "parent_id": 250,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 203,
+            "menu_group_id": 1
+        },
+        {
+            "id": 254,
+            "name": "d5cdc920dfe1edcae4c7",
+            "parent_id": 250,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 204,
+            "menu_group_id": 1
+        },
+        {
+            "id": 256,
+            "name": "cdc7e1c7ca20c7e4d3c7e4edc9",
+            "parent_id": 250,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 206,
+            "menu_group_id": 1
+        },
+        {
+            "id": 257,
+            "name": "cfddc7",
+            "parent_id": 250,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 207,
+            "menu_group_id": 1
+        },
+        {
+            "id": 258,
+            "name": "d2dfc7c920e3c7e1",
+            "parent_id": 250,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 208,
+            "menu_group_id": 1
+        },
+        {
+            "id": 260,
+            "name": "20d5df20c7e1c3d6cdedc9",
+            "parent_id": 250,
+            "sequence": 8,
+            "flag": "L",
+            "damen_code": 210,
+            "menu_group_id": 1
+        },
+        {
+            "id": 223,
+            "name": "c7e1d3e1c920c7e1dbd0c7c6edc9",
+            "parent_id": 263,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 177,
+            "menu_group_id": 1
+        },
+        {
+            "id": 262,
+            "name": "e3d3c7dacfc7ca20d4e5d1edc9",
+            "parent_id": 263,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 212,
+            "menu_group_id": 1
+        },
+        {
+            "id": 269,
+            "name": "20e3d3cae6d1cf20dfc8edd1",
+            "parent_id": 272,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 217,
+            "menu_group_id": 1
+        },
+        {
+            "id": 270,
+            "name": "20e3d3cae6d1cf20d5dbedd1",
+            "parent_id": 272,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 218,
+            "menu_group_id": 1
+        },
+        {
+            "id": 271,
+            "name": "c8e1cfed",
+            "parent_id": 272,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 219,
+            "menu_group_id": 1
+        },
+        {
+            "id": 291,
+            "name": "4974696461",
+            "parent_id": 290,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 234,
+            "menu_group_id": 1
+        },
+        {
+            "id": 293,
+            "name": "c7edcfc7da",
+            "parent_id": 292,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 235,
+            "menu_group_id": 1
+        },
+        {
+            "id": 294,
+            "name": "d3cdc8",
+            "parent_id": 292,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 236,
+            "menu_group_id": 1
+        },
+        {
+            "id": 334,
+            "name": "d4cde420d1d5edcf",
+            "parent_id": 333,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 400,
+            "menu_group_id": 1
+        },
+        {
+            "id": 335,
+            "name": "d3cfc7cf20dde6c7caedd1",
+            "parent_id": 333,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 402,
+            "menu_group_id": 1
+        },
+        {
+            "id": 336,
+            "name": "dfd1e6ca20c7e6d1c7e4cc",
+            "parent_id": 333,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 401,
+            "menu_group_id": 1
+        },
+        {
+            "id": 368,
+            "name": "dfc7d1ca20e3edc7e520c7cecac8c7d1ec",
+            "parent_id": 367,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 331,
+            "menu_group_id": 1
+        },
+        {
+            "id": 382,
+            "name": "c8c7c8ccec",
+            "parent_id": 381,
+            "sequence": 1,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 390,
+            "name": "dfd1e6ca20c8e1c7ed20d3caedd4e4",
+            "parent_id": 381,
+            "sequence": 2,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 391,
+            "name": "e4e4caede4cfe6",
+            "parent_id": 381,
+            "sequence": 3,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 392,
+            "name": "c7dfd320c8e6dfd3",
+            "parent_id": 381,
+            "sequence": 4,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 393,
+            "name": "dfe6e4dfe6d1",
+            "parent_id": 381,
+            "sequence": 5,
+            "flag": "M",
+            "damen_code": 0,
+            "menu_group_id": 1
+        },
+        {
+            "id": 383,
+            "name": "31353030202b2033303020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 344,
+            "menu_group_id": 1
+        },
+        {
+            "id": 384,
+            "name": "3831303020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 345,
+            "menu_group_id": 1
+        },
+        {
+            "id": 385,
+            "name": "c8c7c8cced2020363020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 346,
+            "menu_group_id": 1
+        },
+        {
+            "id": 386,
+            "name": "363030202b20363020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 347,
+            "menu_group_id": 1
+        },
+        {
+            "id": 387,
+            "name": "3338353020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 5,
+            "flag": "L",
+            "damen_code": 348,
+            "menu_group_id": 1
+        },
+        {
+            "id": 388,
+            "name": "333030202b20323520ede620d3ed",
+            "parent_id": 382,
+            "sequence": 6,
+            "flag": "L",
+            "damen_code": 349,
+            "menu_group_id": 1
+        },
+        {
+            "id": 389,
+            "name": "31393020ede620d3ed",
+            "parent_id": 382,
+            "sequence": 7,
+            "flag": "L",
+            "damen_code": 350,
+            "menu_group_id": 1
+        },
+        {
+            "id": 394,
+            "name": "313020cfe6e1c7d1",
+            "parent_id": 390,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 351,
+            "menu_group_id": 1
+        },
+        {
+            "id": 395,
+            "name": "323020cfe6e1c7d1",
+            "parent_id": 390,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 352,
+            "menu_group_id": 1
+        },
+        {
+            "id": 396,
+            "name": "c7d4cad1c7df203320d4e5e6d1",
+            "parent_id": 390,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 353,
+            "menu_group_id": 1
+        },
+        {
+            "id": 397,
+            "name": "c7d4cad1c7df20d3e4c9",
+            "parent_id": 390,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 354,
+            "menu_group_id": 1
+        },
+        {
+            "id": 403,
+            "name": "313020cfe6e1c7d1",
+            "parent_id": 391,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 360,
+            "menu_group_id": 1
+        },
+        {
+            "id": 404,
+            "name": "323020cfe6e1c7d1",
+            "parent_id": 391,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 361,
+            "menu_group_id": 1
+        },
+        {
+            "id": 401,
+            "name": "333520cfe6e1c7d1",
+            "parent_id": 391,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 358,
+            "menu_group_id": 1
+        },
+        {
+            "id": 402,
+            "name": "353020cfe6e1c7d1",
+            "parent_id": 391,
+            "sequence": 4,
+            "flag": "L",
+            "damen_code": 359,
+            "menu_group_id": 1
+        },
+        {
+            "id": 398,
+            "name": "323020cfe6e1c7d1",
+            "parent_id": 392,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 355,
+            "menu_group_id": 1
+        },
+        {
+            "id": 399,
+            "name": "353020cfe6e1c7d1",
+            "parent_id": 392,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 356,
+            "menu_group_id": 1
+        },
+        {
+            "id": 400,
+            "name": "c7d4cad1c7df203320d4e5e6d1",
+            "parent_id": 392,
+            "sequence": 3,
+            "flag": "L",
+            "damen_code": 357,
+            "menu_group_id": 1
+        },
+        {
+            "id": 405,
+            "name": "313620cfe6e1c7d1",
+            "parent_id": 393,
+            "sequence": 1,
+            "flag": "L",
+            "damen_code": 373,
+            "menu_group_id": 1
+        },
+        {
+            "id": 406,
+            "name": "333020cfe6e1c7d1",
+            "parent_id": 393,
+            "sequence": 2,
+            "flag": "L",
+            "damen_code": 374,
+            "menu_group_id": 1
+        }
+    ]
+}
