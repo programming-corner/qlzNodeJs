@@ -1,7 +1,7 @@
 const { compress } = require('../QLZNodjs');
 
 const fs = require('fs'), path = require('path')
- var data = fs.readFileSync('../data.json', "utf-8");
+ //var data = fs.readFileSync('../data.json', "utf-8");
 // //var data = require('../data.json')
 // //path
 

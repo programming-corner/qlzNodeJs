@@ -1,0 +1,1 @@
+cmd_Release/obj.target/qlz.node := g++ -o Release/obj.target/qlz.node -shared -pthread -rdynamic -m64  -Wl,-soname=qlz.node -Wl,--start-group Release/obj.target/qlz/src/quicklz.o Release/obj.target/qlz/src/index.o -Wl,--end-group 
